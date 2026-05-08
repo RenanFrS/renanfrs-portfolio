@@ -205,7 +205,7 @@ export function MenuOverlay({ open, onClose }: MenuOverlayProps) {
           className="mt-8 flex flex-col items-center gap-4 pt-6 text-[10px] uppercase tracking-[0.3em] text-bone/70 md:flex-row md:items-end md:justify-end md:gap-8"
         >
           <span className="font-bold tracking-[0.4em] text-bone">
-            Business Enquiries
+            Entre em contato
           </span>
           <ul className="flex gap-4 md:gap-6">
             {socials.map((s) => (
