@@ -77,14 +77,6 @@ Abra [http://localhost:3000](http://localhost:3000) no browser.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFrS&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
-</div>
-
----
-
 ## 🌐 Socials
 
 <div align="left">
